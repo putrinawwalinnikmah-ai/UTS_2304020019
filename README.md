@@ -1,5 +1,5 @@
 **WINE QUALITY**
-
+---
 **PENDAHULUAN**
 Data mining merupakan proses penggalian informasi atau pola penting dari sekumpulan data menggunakan teknik statistik, machine learning, dan kecerdasan buatan. Salah satu penerapan data mining adalah klasifikasi, yaitu metode untuk mengelompokkan data ke dalam kelas tertentu berdasarkan karakteristik yang dimiliki. Pada bidang industri makanan dan minuman, khususnya industri anggur, klasifikasi dapat digunakan untuk memprediksi kualitas anggur berdasarkan kandungan kimiawi yang terdapat di dalamnya.
 
