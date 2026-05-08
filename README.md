@@ -22,8 +22,8 @@ Tujuan dari praktikum dan analisis data mining ini adalah sebagai berikut:
 6. Menggunakan model terbaik untuk memprediksi nilai quality pada dataset testing.
 7. Menyimpan hasil prediksi ke dalam file CSV sesuai format yang telah ditentukan, yaitu hanya memuat kolom Id dan quality.
 
-8. # Proses Analisis
+# Proses Analisis
 Proses analisis sudah dijelaskan pada bagian icon _issues_ pada Github dan penjelasan proses juga terdapat pada Google Colab
 
-# Hasil
+# Link Google Colab
 https://colab.research.google.com/drive/1LFTaSQ6gFt-04VZbZon818PLsauIzFZ2?usp=sharing 
